@@ -19,8 +19,8 @@ The module does the following:
 
 ### System requirements
 
-Magento 2.3+
-Magento\Sales module is required
+- Magento 2.3+
+- Sales module is required
 
 
 ### Installation
