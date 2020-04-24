@@ -2,7 +2,7 @@
     "name": "victorkon/orders-grid-extra-fields",
     "description": "Adds Coupon Code and Discount Amount columns to Orders grid",
     "type": "magento2-module",
-	"version": "1.0.0",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Victor Konchalenko",
@@ -13,6 +13,7 @@
     ],
     "require": {
         "php": "~7.1.3|~7.2.0|~7.3.0",
+		"magento/framework": "^102.0",
         "magento/module-sales": "^102.0"
     },
     "license": [
